@@ -2,7 +2,7 @@
 
 The certificates I have earned, with what each one covers and why it matters for my goal: working as a **web developer** (.NET, frontend, backend).
 
-- 👤 Portfolio: [github.com/jasonvuong20032/jasonvuong](https://github.com/jasonvuong20032/jasonvuong)
+- 👤 Portfolio: [github.com/jasonvuong20032/me](https://github.com/jasonvuong20032/me)
 - 💻 GitHub: [github.com/jasonvuong20032](https://github.com/jasonvuong20032)
 
 ---
